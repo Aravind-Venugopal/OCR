@@ -1,3 +1,3 @@
 # OCR
 
-!(tesseract.png)
+![PyTesseract](tesseract.png)
