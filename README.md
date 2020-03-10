@@ -1,0 +1,3 @@
+# OCR
+
+!(tesseract.png)
